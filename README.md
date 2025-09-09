@@ -31,6 +31,7 @@ I believe in sharing progress, not just results. By documenting experiments and 
 ## Future Goals:
 
 Push the boundaries of personalized AI systems.
+
 Contribute to the global AI revolution with solutions that truly serve humanity.
 
 
