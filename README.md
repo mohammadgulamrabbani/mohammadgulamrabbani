@@ -2,7 +2,7 @@
 
 ## 👤 Who Am I?
 
-🌟 I’m Mohammad Gulam Rabbani, an aspiring AI & Machine Learning Engineer passionate about building intelligent systems that go beyond simple automation. My focus is on creating AI that is more human-centered, spontaneous, and deeply integrated with daily life.
+I’m Mohammad Gulam Rabbani, an aspiring AI & Machine Learning Engineer passionate about building intelligent systems that go beyond simple automation. My focus is on creating AI that is more human-centered, spontaneous, and deeply integrated with daily life.
 
 
 ## 🎯 My Vision: 
@@ -11,7 +11,7 @@ Traditional AI works in a reactive way — you ask, and it responds.
 
 But what happens if AI can capture spontaneous thoughts, track patterns, and build a personal life-history model of its user.
 
-Think of it as a second brain 🧠 — one that remembers, reflects, and helps you connect ideas you might otherwise forget. That's sounds Roaring 🚀 right!
+Think of it as a second brain 🧠 — one that remembers, reflects, and helps you connect ideas you might otherwise forget. That's sounds futuristic,right..!
 
 
 ## 💻 What I Work On:
